@@ -78,3 +78,5 @@ def rock_paper_scissors_Zeynep_Koz():
         if computer_play_again != "yes":
             print("The computer doesn't want to continue, so the game has ended. Thank you!")
             break
+            
+tas_kagit_makas_Zeynep_Koz()
