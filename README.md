@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/nepatiess/Tas_Kagit_Makas_ZEYNEP_KOZ/main/resim.png">
-## Global AI Hub Python'a Giris Tas Kagit Makas Projesi'ne Hoş Geldiniz
+
+## Global AI Hub Python'a Giris Tas Kagit Makas Projesi'ne Hoş Geldiniz 🧊 🔥 💧
 - Bu Python tabanlı oyun, **Buz**, **Ateş** ve **Su** unsurlarını kullanarak klasik taş-kâğıt-makas oyununu bir adım öteye taşır.
 - Oyunumuz, insanlık için denge ve uyum temalarını vurgulayan basit ama etkili bir eğlence sunar. **İki** kişi (oyuncu ve bilgisayar) karşı karşıya gelir ve **ilk iki** turu kazanan oyunu kazanır.
 
@@ -7,9 +8,9 @@
 - Bu projenin amacı, **PEP-8** kurallarına göre yazılan taş-kağıt-makas oyunudur.
 
 ### Kurallar
-- Buz: Suyu *dondurur*, ama Ateş tarafından *eritilir.*
-- Ateş: Buzu *eritir*, ama Su tarafından *söndürülür.*
-- Su: Ateşi *söndürür*, ama Buz tarafından *dondurulur*.
+- 🧊 Buz: Suyu *dondurur*, ama Ateş tarafından *eritilir.*
+- 🔥 Ateş: Buzu *eritir*, ama Su tarafından *söndürülür.*
+- 💧 Su: Ateşi *söndürür*, ama Buz tarafından *dondurulur*.
 
 ### Oyun Akışı
 - Oyuncu, **Buz**, **Ateş** veya **Su** seçeneklerinden birini seçer.
