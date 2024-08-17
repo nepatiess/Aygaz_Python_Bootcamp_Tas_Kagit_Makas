@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/nepatiess/Tas_Kagit_Makas_ZEYNEP_KOZ/main/resim.png">
 
 ## Global AI Hub Python'a Giriş Taş - Kağıt - Makas Projesi'ne 
-#Hoş Geldiniz 🧊 🔥 💧
+# Hoş Geldiniz 🧊 🔥 💧
 - Bu Python tabanlı oyun, **Buz**, **Ateş** ve **Su** unsurlarını kullanarak klasik taş-kâğıt-makas oyununu bir adım öteye taşır.
 - Oyunumuz, insanlık için denge ve uyum temalarını vurgulayan basit ama etkili bir eğlence sunar. **İki** kişi (oyuncu ve bilgisayar) karşı karşıya gelir ve **ilk iki** turu kazanan oyunu kazanır.
 
