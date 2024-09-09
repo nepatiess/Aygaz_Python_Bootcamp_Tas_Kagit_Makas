@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nepatiess/Tas_Kagit_Makas_ZEYNEP_KOZ/main/resim_.PNG">
+<img src="https://raw.githubusercontent.com/nepatiess/Tas_Kagit_Makas_ZEYNEP_KOZ/main/image_.PNG">
 
 ## Global AI Hub Python'a Giriş Taş - Kağıt - Makas Projesi'ne 
 # Hoş Geldiniz 🧊 🔥 💧
